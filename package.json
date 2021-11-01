@@ -1,0 +1,24 @@
+{
+  "name": "landing-page-node",
+  "version": "1.0.0",
+  "description": "Projeto 2 do curso da Blue edtech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernaRocha/landing-pages-node.git"
+  },
+  "author": "Bernardo Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernaRocha/landing-pages-node/issues"
+  },
+  "homepage": "https://github.com/bernaRocha/landing-pages-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
